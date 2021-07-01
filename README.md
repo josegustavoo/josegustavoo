@@ -31,4 +31,4 @@ And during those years, I learned everything I know today, using a cell phone.
 
 ### Github Stats 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josegustavoo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![José Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=josegustavoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![José Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=josegustavoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
