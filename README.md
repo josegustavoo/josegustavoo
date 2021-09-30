@@ -1,7 +1,7 @@
 ## Hi, i'm José Gustavo! 👋
 
 ### About me ✍
-My name is **José Gustavo**, I am 16 years old, I live in Brazil, I have been a **FullStack programmer** for over 5 years.
+My name is **José Gustavo**, I am 17 years old, I live in Brazil, I have been a **FullStack programmer** for over 5 years.
 And during those years, I learned everything I know today, using a cell phone.
 
 ### Social Networks 💬
