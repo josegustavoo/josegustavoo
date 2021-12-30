@@ -8,7 +8,7 @@ And during those years, I learned everything I know today, using a cell phone.
 <p>
   <a href="https://github.com/josegustavoo" alt="Github" title="Github"><img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/github.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/jose_gustaavo/" alt="Instagram" title="Instagram"><img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/instagram.svg" width="32" height="32" /></a>
-  <a href="www.linkedin.com/in/josegustavoo" alt="Linkedin" title="Linkedin"><img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/josegustavoo" alt="Linkedin" title="Linkedin"><img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Technologies and Tools 👨‍💻
